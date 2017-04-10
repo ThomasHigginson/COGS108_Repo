@@ -1,1 +1,6 @@
 # gitignore file
+# Ignore .swp files
+**/.swp
+
+# Ignore .md~
+**/.md~
